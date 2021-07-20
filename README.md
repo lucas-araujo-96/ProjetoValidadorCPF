@@ -1,2 +1,3 @@
 # ProjetoValidadorCPF
-Projeto em VanillaJS de um validador de CPF's com orientação a objetos.
+
+Código para validar CPF's (JS somente), feito com OOP e comentado.
